@@ -1,5 +1,27 @@
 # 💫 About Me:
-Hi there! I'm Hammad Naeem, a BSCS student with a passion for learning new technologies. My current focus is on Flutter mobile app development.
+Hi, I’m Hammad Naeem, a Flutter App Developer passionate about building beautiful, high-performing mobile apps for both Android and iOS.
+
+Over the past 2 years, I’ve been actively learning and polishing my skills through freelance projects and personal development. My journey has focused on using Flutter to create cross-platform apps that are not only functional but also optimized for a seamless user experience.
+
+🔧 Core Skills:
+Flutter (Dart) for cross-platform app development
+
+Firebase (Authentication, Firestore, Storage)
+
+RESTful API integration
+
+Backend development using Node.js
+
+Machine Learning (ML) and AI model integration
+
+UI/UX design with responsive layouts
+
+🧠 Notable Project:
+Eye Doctor Pro – A healthcare app that uses AI to detect pink eye (conjunctivitis) from user-submitted images. It includes a chatbot for symptom guidance and integrates Firebase and a custom ML model via Node.js.
+
+I'm particularly interested in exploring how AI and mobile technologies can work together to build intelligent, user-friendly solutions for real-world problems.
+
+If you're looking to collaborate on a mobile app or need a developer who brings creativity, curiosity, and a growth mindset — let’s connect!.
 
 
 ## 🌐 Socials:
